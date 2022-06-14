@@ -5,5 +5,5 @@ Created on June 13, 2022
 """
 
 
-def test_failed():
-    assert(3, 4, 5) == (5, 4, 3)
+def test_passed():
+    assert (3, 4, 5) == (3, 4, 5)
