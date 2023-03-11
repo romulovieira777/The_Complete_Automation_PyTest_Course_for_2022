@@ -4,6 +4,7 @@ Created on June 14, 2022
 @author romulo
 """
 import time
+import pytest
 from collections import namedtuple
 
 
