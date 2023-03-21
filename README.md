@@ -7,5 +7,6 @@
 - [Section 04 - Types of PyTest Testing](https://github.com/romulovieira777/The_Complete_Automation_PyTest_Course_for_2022/tree/main/Section_04_Types_of_PyTest_Testing)
 - [Section 05 - Writing Test Functions](https://github.com/romulovieira777/The_Complete_Automation_PyTest_Course_for_2022/tree/main/Section_05_Writing_Test_Functions)
 - [Section 06 - Testing Test Functions](https://github.com/romulovieira777/The_Complete_Automation_PyTest_Course_for_2022/tree/main/Section_06_Testing_Test_Functions)
+- [Section 07 - PyTest Fixtures](https://github.com/romulovieira777/The_Complete_Automation_PyTest_Course_for_2022/tree/main/Section_07_PyTest_Fixtures)
 
 Link to the course: [Udemy](https://www.udemy.com/course/pytest-python/)
