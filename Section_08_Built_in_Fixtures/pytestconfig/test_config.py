@@ -38,7 +38,7 @@ def test_pytestconfig(pytestconfig):
     print('--tb=style        : ', pytestconfig.getoption('tbstyle'))
 
 
-def test_legacy(reuqest):
-    print('/n"foo" set to: ', reuqest.config.getoption('foo'))
+def test_legacy(request):
+    print('\n"foo" set to: ', reuqest.config.getoption('foo'))
     print('"myopt" set to: ', reuqest.config.getoption('myopt'))
     print('"keyword" set to: ', reuqest.config.getoption('keyword'))
