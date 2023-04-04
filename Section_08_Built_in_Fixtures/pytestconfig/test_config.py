@@ -39,6 +39,6 @@ def test_pytestconfig(pytestconfig):
 
 
 def test_legacy(request):
-    print('\n"foo" set to: ', reuqest.config.getoption('foo'))
-    print('"myopt" set to: ', reuqest.config.getoption('myopt'))
-    print('"keyword" set to: ', reuqest.config.getoption('keyword'))
+    print('\n"foo" set to: ', request.config.getoption('foo'))
+    print('"myopt" set to: ', request.config.getoption('myopt'))
+    print('"keyword" set to: ', request.config.getoption('keyword'))
