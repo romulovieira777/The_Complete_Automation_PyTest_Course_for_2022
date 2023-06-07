@@ -10,5 +10,6 @@
 - [Section 07 - PyTest Fixtures](https://github.com/romulovieira777/The_Complete_Automation_PyTest_Course_for_2022/tree/main/Section_07_PyTest_Fixtures)
 - [Section 08 - Built-in Fixtures](https://github.com/romulovieira777/The_Complete_Automation_PyTest_Course_for_2022/tree/main/Section_08_Built_in_Fixtures)
 - [Section 09 - Plugins](https://github.com/romulovieira777/The_Complete_Automation_PyTest_Course_for_2022/tree/main/Section_09_Plugins)
+- [Section 10 - PyTest Configuration](https://github.com/romulovieira777/The_Complete_Automation_PyTest_Course_for_2022/tree/main/Section_10_PyTest_Configuration)
 
 Link to the course: [Udemy](https://www.udemy.com/course/pytest-python/)
